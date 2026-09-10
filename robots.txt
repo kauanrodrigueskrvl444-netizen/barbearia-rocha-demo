@@ -1,0 +1,4 @@
+# DEMO: preço fictício e agendamento simulado, não deve ser indexado.
+# Apagar este arquivo antes de publicar a versão real.
+User-agent: *
+Disallow: /
